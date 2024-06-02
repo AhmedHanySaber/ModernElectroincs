@@ -133,7 +133,7 @@ const Signup = () => {
                                 password: e.target.value
                             })
                         }}
-                        className='bg-blue-50 border border-blue-200 px-2 py-2 w-96 rounded-md outline-none placeholder-pink-200'
+                        className='bg-blue-50 border border-blue-200 px-2 py-2 w-96 rounded-md outline-none placeholder-blue-200'
                     />
                 </div>
 
