@@ -106,7 +106,7 @@ const OrderDetail = () => {
                                         {order.cartItems.map((item, index) => {
                                             const { id, productImageUrl, title, category, price, quantity } = item
                                             return (
-                                                <tr key={index} className="text-pink-300">
+                                                <tr key={index} className="text-blue-300">
                                                     <td className="h-12 px-6 text-md transition duration-300 border-t border-l first:border-l-0 border-blue-100 stroke-slate-500 text-slate-500 ">
                                                         {index + 1}
                                                     </td>
