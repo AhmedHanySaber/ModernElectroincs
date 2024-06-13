@@ -25,10 +25,10 @@ const Footer = () => {
                     </p>
                     {/* phone number */}
                     <p className="text-sm text-gray-100 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">
-                        Contact us: <a href="tel:02 27300162" className="text-gray-100 ml-1">+123-456-7890</a>
+                        Contact us: <a href="tel:02 27300162" className="text-gray-100 ml-1">tel:02 27300162</a>
                     </p>
                     <p className="text-sm text-gray-100 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">
-                        Contact us: <a href="phone:+20125150404" className="text-gray-100 ml-1">+123-456-7890</a>
+                        Contact us: <a href="phone:+20125150404" className="text-gray-100 ml-1">phone:+20125150404</a>
                     </p>
                     {/* media icons */}
                     <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
