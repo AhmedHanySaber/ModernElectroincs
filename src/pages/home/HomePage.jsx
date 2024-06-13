@@ -11,7 +11,7 @@ const HomePage = () => {
             <HeroSection/>
             <Category/>
             <HomePageProductCard/>
-            <Track/>
+           
             
         </Layout>
     );
