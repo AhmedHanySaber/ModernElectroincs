@@ -14,7 +14,7 @@ const categoryList = [
     { name: 'microcontrollers' },
     { name: 'Multimeter' },
     { name: 'rasbperry pi' },
-    { name: 'Resistance/indutance' },
+    { name: 'Resistance-indutance' },
     { name: 'tools' },
     { name: 'transitors' },
 ];
