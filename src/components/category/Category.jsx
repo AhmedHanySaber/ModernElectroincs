@@ -32,7 +32,7 @@ const category = [
     },
     {
         image: 'https://firebasestorage.googleapis.com/v0/b/modernelcctroincs.appspot.com/o/Resistance_indutance.png?alt=media&token=7d3958e6-ec55-472c-a912-a334205cd905',
-        name: 'Resistance/indutance'
+        name: 'Resistance-indutance'
     },
     {
         image: 'https://firebasestorage.googleapis.com/v0/b/modernelcctroincs.appspot.com/o/tools.png?alt=media&token=d5d71ab3-bece-4892-9e1d-0eec7515879e',
