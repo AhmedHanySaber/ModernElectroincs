@@ -7,30 +7,16 @@ import toast from "react-hot-toast";
 import Loader from "../../components/loader/Loader";
 
 const categoryList = [
-    {
-        name: 'fashion'
-    },
-    {
-        name: 'shirt'
-    },
-    {
-        name: 'jacket'
-    },
-    {
-        name: 'mobile'
-    },
-    {
-        name: 'laptop'
-    },
-    {
-        name: 'shoes'
-    },
-    {
-        name: 'home'
-    },
-    {
-        name: 'books'
-    }
+    { name: 'arduino' },
+    { name: 'boards' },
+    { name: 'capacitor' },
+    { name: 'IC' },
+    { name: 'microcontrollers' },
+    { name: 'Multimeter' },
+    { name: 'rasbperry pi' },
+    { name: 'Resistance-indutance' },
+    { name: 'tools' },
+    { name: 'transitors' },
 ]
 
 const UpdateProductPage = () => {
